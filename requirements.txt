@@ -1,0 +1,9 @@
+sounddevice==0.5.1
+numpy>=1.26
+requests>=2.32
+pynput>=1.7.7
+pystray==0.19.5
+Pillow>=10
+pyperclip>=1.9
+customtkinter>=5.2.2
+websocket-client>=1.8.0

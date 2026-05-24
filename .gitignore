@@ -1,0 +1,23 @@
+.venv/
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.spec.bak
+
+# User-specific runtime artifacts
+config.json
+murmur.log
+whisper-ptt.log
+last-recording.wav
+
+# Build artifacts (preview pngs in docs/ are kept on purpose)
+icon.ico
+*.zip
+
+# Editor / OS junk
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
