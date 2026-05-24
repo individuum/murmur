@@ -233,4 +233,7 @@ run.bat / run-debug.bat   # dev launchers
 
 ## License
 
-[MIT](./LICENSE)
+[LGPL-3.0-or-later](./LICENSE) — see also [COPYING](./COPYING) (GPL-3.0, which LGPL incorporates by reference).
+
+In short: you can use Murmur in your own (including proprietary) project, but
+modifications to **Murmur itself** must be shared back under the same license.
