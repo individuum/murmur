@@ -21,3 +21,16 @@ icon.ico
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Secrets — never commit these
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+secrets.json
+credentials.json
+.claude/
+CLAUDE.md
+.cursorrules
